@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Tshergzeh
-- 👀 I’m interested in website development, data science, mobile and desktop app devlopment
-- 🌱 I’m currently learning Microsoft's Universal Windows Platform and Android development
-- 💞️ I’m looking to collaborate on machine learning and app development projects
-- 📫 How to reach me- Email: mailshegze@gmail.com
+# Hi, I'm Segun
 
-<!---
-Tshergzeh/Tshergzeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a backend-focused Software Engineer passionate about building reliable, scalable systems. I enjoy working with Python and JavaScript to create APIs and backend tools that solve real-world problems.
+
+## Tech Stack
+- **Languages**: Python, JavaScript
+- **Frameworks**: FastAPI, Express
+- **Databases**: MongoDB, PostgreSQL
+- **Tools**: Git, Docker, Postman, GitHub Actions
+- **Cloud**: Vercel, Heroku, Render
+
+## What I'm Working On
+- Building a FastAPI-powered administrative backend with role-based access and real-time content updates.
+- Learning more about production deployments and API security.
+
+## Let's Connect
+- LinkedIn: https://www.linkedin.com/in/tshergzeh
+- Twitter: https://x.com/OluwasegunIge4
+
+Let's build amazing stuff together!
