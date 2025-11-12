@@ -9,10 +9,6 @@ I'm a backend-focused Software Engineer passionate about building reliable, scal
 - **Tools**: Git, Docker, Postman, GitHub Actions
 - **Cloud**: Vercel, Heroku, Render
 
-## What I'm Working On
-- Building a FastAPI-powered administrative backend with role-based access and real-time content updates.
-- Learning more about production deployments and API security.
-
 ## Let's Connect
 - LinkedIn: https://www.linkedin.com/in/tshergzeh
 - Twitter: https://x.com/OluwasegunIge4
