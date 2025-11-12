@@ -10,7 +10,7 @@ I'm a backend-focused Software Engineer passionate about building reliable, scal
 - **Cloud**: Vercel, Heroku, Render
 
 ## Let's Connect
-- LinkedIn: https://www.linkedin.com/in/tshergzeh
+- LinkedIn: https://www.linkedin.com/in/oluwasegunige
 - Twitter: https://x.com/OluwasegunIge4
 
 Let's build amazing stuff together!
